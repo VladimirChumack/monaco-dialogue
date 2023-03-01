@@ -2,6 +2,7 @@
   "name": "monaco-dialogue",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://vladimirchumack.github.io/monaco-dialogue/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -12,6 +13,9 @@
     "@uiw/react-monacoeditor": "^3.5.7",
     "monaco-editor-webpack-plugin": "^7.0.1",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
   },
   "scripts": {
     "predeploy": "npm run build",
